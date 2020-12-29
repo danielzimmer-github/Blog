@@ -1,0 +1,3 @@
+First blog post...
+Everytime I forget something I used to know pertaining to computer science I find myself in the unconfortable position of having to explain to myself that "This is a normal part of being human". I calm myself down by rejecting that notion. I made this blog to document my work outside of my soul wretching dayjob, so that I may spend more time with my newfound/refound information as to not forget it so easily. This will also serve to accomodate the necessary reflux of criticism that I have been nearly without for the past few months. If you find anything that I have written to be off poor quality, poor taste or just downright offensive, let me know, I need it. Thanks,
+	Daniel
